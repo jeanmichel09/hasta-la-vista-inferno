@@ -1,0 +1,490 @@
+[api-updater (non-obsolete-error-filter)] 11/04/2022 21:45:07 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 884,1674ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 628ms
+candidates check time : 64ms
+console write time    : 12ms
+
+[api-updater (non-obsolete-error-filter)] 05/05/2022 19:15:56 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 716,7665ms
+moved types parse time: 99ms
+candidates parse time : 1ms
+C# parse time         : 552ms
+candidates check time : 80ms
+console write time    : 16ms
+
+[api-updater (non-obsolete-error-filter)] 05/05/2022 19:21:21 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1231,1085ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 546ms
+candidates check time : 65ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 05/05/2022 19:21:45 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 112,9621ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 251ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/05/2022 19:36:06 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2378,1811ms
+moved types parse time: 161ms
+candidates parse time : 1ms
+C# parse time         : 1486ms
+candidates check time : 116ms
+console write time    : 22ms
+
+[api-updater (non-obsolete-error-filter)] 05/05/2022 19:36:37 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 89,9658ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 250ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 18:45:47 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1499,3408ms
+moved types parse time: 135ms
+candidates parse time : 44ms
+C# parse time         : 592ms
+candidates check time : 117ms
+console write time    : 16ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 18:45:59 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 91,9685ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 280ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 18:46:40 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1942,0531ms
+moved types parse time: 316ms
+candidates parse time : 99ms
+C# parse time         : 1680ms
+candidates check time : 258ms
+console write time    : 24ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 18:53:32 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2340,3671ms
+moved types parse time: 244ms
+candidates parse time : 2ms
+C# parse time         : 1505ms
+candidates check time : 118ms
+console write time    : 18ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 18:54:49 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 108,9652ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 280ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 18:54:51 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 117,9615ms
+moved types parse time: 97ms
+candidates parse time : 2ms
+C# parse time         : 327ms
+candidates check time : 423ms
+console write time    : 5ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 18:55:27 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 107,3452ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 299ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 18:55:57 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 111,5026ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 341ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 19:04:55 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 584,0428ms
+moved types parse time: 96ms
+candidates parse time : 1ms
+C# parse time         : 691ms
+candidates check time : 123ms
+console write time    : 19ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 19:25:21 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 551,7958ms
+moved types parse time: 108ms
+candidates parse time : 26ms
+C# parse time         : 479ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 19:26:43 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 710,6025ms
+moved types parse time: 100ms
+candidates parse time : 1ms
+C# parse time         : 524ms
+candidates check time : 164ms
+console write time    : 14ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 19:28:26 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 89,6912ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 289ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 19:28:44 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93,9697ms
+moved types parse time: 65ms
+candidates parse time : 1ms
+C# parse time         : 283ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 20/05/2022 19:32:39 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 839,7354ms
+moved types parse time: 116ms
+candidates parse time : 2ms
+C# parse time         : 493ms
+candidates check time : 101ms
+console write time    : 27ms
+
+[api-updater (non-obsolete-error-filter)] 28/05/2022 02:28:04 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 990,0392ms
+moved types parse time: 92ms
+candidates parse time : 1ms
+C# parse time         : 726ms
+candidates check time : 68ms
+console write time    : 18ms
+
+[api-updater (non-obsolete-error-filter)] 28/05/2022 02:49:12 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 563,047ms
+moved types parse time: 89ms
+candidates parse time : 2ms
+C# parse time         : 486ms
+candidates check time : 45ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 31/05/2022 00:34:41 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 780,1317ms
+moved types parse time: 85ms
+candidates parse time : 1ms
+C# parse time         : 697ms
+candidates check time : 76ms
+console write time    : 15ms
+
+[api-updater (non-obsolete-error-filter)] 03/06/2022 21:58:09 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 992,6834ms
+moved types parse time: 161ms
+candidates parse time : 2ms
+C# parse time         : 797ms
+candidates check time : 111ms
+console write time    : 17ms
+
+[api-updater (non-obsolete-error-filter)] 03/06/2022 22:07:45 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 888,6659ms
+moved types parse time: 157ms
+candidates parse time : 1ms
+C# parse time         : 537ms
+candidates check time : 98ms
+console write time    : 14ms
+
+[api-updater (non-obsolete-error-filter)] 03/06/2022 22:10:37 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104,1078ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 314ms
+candidates check time : 88ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 03/06/2022 22:10:38 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 97,9688ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 284ms
+candidates check time : 88ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/06/2022 02:31:10 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 791,8329ms
+moved types parse time: 88ms
+candidates parse time : 1ms
+C# parse time         : 699ms
+candidates check time : 103ms
+console write time    : 12ms
+
+[api-updater (non-obsolete-error-filter)] 13/06/2022 04:00:40 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 524,5171ms
+moved types parse time: 130ms
+candidates parse time : 1ms
+C# parse time         : 626ms
+candidates check time : 76ms
+console write time    : 24ms
+
+[api-updater (non-obsolete-error-filter)] 15/06/2022 20:38:26 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 688,5128ms
+moved types parse time: 160ms
+candidates parse time : 14ms
+C# parse time         : 517ms
+candidates check time : 84ms
+console write time    : 39ms
+
+[api-updater (non-obsolete-error-filter)] 15/06/2022 21:03:16 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 566,8081ms
+moved types parse time: 96ms
+candidates parse time : 1ms
+C# parse time         : 1001ms
+candidates check time : 46ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/06/2022 21:04:03 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 86,9846ms
+moved types parse time: 79ms
+candidates parse time : 1ms
+C# parse time         : 272ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15/06/2022 21:07:30 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 618,811ms
+moved types parse time: 110ms
+candidates parse time : 1ms
+C# parse time         : 1395ms
+candidates check time : 115ms
+console write time    : 20ms
+
+[api-updater (non-obsolete-error-filter)] 15/06/2022 21:09:10 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94,9838ms
+moved types parse time: 82ms
+candidates parse time : 1ms
+C# parse time         : 266ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 15/06/2022 23:05:26 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 616,1937ms
+moved types parse time: 94ms
+candidates parse time : 1ms
+C# parse time         : 457ms
+candidates check time : 58ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 16/06/2022 00:26:56 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 547,8205ms
+moved types parse time: 88ms
+candidates parse time : 1ms
+C# parse time         : 442ms
+candidates check time : 51ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 16/06/2022 00:39:44 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 92,4919ms
+moved types parse time: 73ms
+candidates parse time : 1ms
+C# parse time         : 379ms
+candidates check time : 123ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 16/06/2022 00:46:59 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88,99ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 366ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 16/06/2022 00:53:59 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87,972ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 297ms
+candidates check time : 63ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 16/06/2022 22:12:29 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 742,0742ms
+moved types parse time: 120ms
+candidates parse time : 1ms
+C# parse time         : 632ms
+candidates check time : 80ms
+console write time    : 16ms
+
+[api-updater (non-obsolete-error-filter)] 16/06/2022 22:12:32 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 103,9734ms
+moved types parse time: 74ms
+candidates parse time : 4ms
+C# parse time         : 358ms
+candidates check time : 143ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 17/06/2022 18:50:55 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1147,6216ms
+moved types parse time: 109ms
+candidates parse time : 1ms
+C# parse time         : 654ms
+candidates check time : 126ms
+console write time    : 11ms
+
+[api-updater (non-obsolete-error-filter)] 17/06/2022 20:04:30 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 545,319ms
+moved types parse time: 108ms
+candidates parse time : 1ms
+C# parse time         : 479ms
+candidates check time : 56ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 17/06/2022 20:30:57 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 709,1289ms
+moved types parse time: 99ms
+candidates parse time : 1ms
+C# parse time         : 603ms
+candidates check time : 45ms
+console write time    : 17ms
+
+[api-updater (non-obsolete-error-filter)] 18/06/2022 20:57:23 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 757,0887ms
+moved types parse time: 84ms
+candidates parse time : 1ms
+C# parse time         : 653ms
+candidates check time : 64ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 18/06/2022 21:54:50 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 698,7944ms
+moved types parse time: 93ms
+candidates parse time : 1ms
+C# parse time         : 543ms
+candidates check time : 86ms
+console write time    : 13ms
+
+[api-updater (non-obsolete-error-filter)] 19/06/2022 19:05:27 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 876,0932ms
+moved types parse time: 154ms
+candidates parse time : 2ms
+C# parse time         : 823ms
+candidates check time : 165ms
+console write time    : 18ms
+
+[api-updater (non-obsolete-error-filter)] 19/06/2022 19:05:29 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 163,9472ms
+moved types parse time: 144ms
+candidates parse time : 3ms
+C# parse time         : 632ms
+candidates check time : 121ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 21/06/2022 00:15:04 : Starting D:/Games/2020.3.31f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 599,4388ms
+moved types parse time: 141ms
+candidates parse time : 2ms
+C# parse time         : 648ms
+candidates check time : 103ms
+console write time    : 8ms
+
